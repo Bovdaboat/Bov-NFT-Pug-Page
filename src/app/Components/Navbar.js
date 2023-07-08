@@ -9,7 +9,7 @@ const Navbar = () => {
 
     const handleToggle = (e) => {
         if (e.target.checked) {
-            setTheme("cupcake");
+            setTheme("light");
         } else {
             setTheme("synthwave");
         }
@@ -26,7 +26,8 @@ const Navbar = () => {
     return(
         <div className="flex justify-between bg-pink-500">
         <div className="navbar ">
-            <a className="btn btn-black normal-case text-xl text-white" href="https://www.instagram.com/stella_tsunami/
+            <a className="hover:scale-110 p-3 font-semibold
+            text-2xl text-white text-black" href="https://www.instagram.com/stella_tsunami/
             ">stella_tsunami</a>
         </div>
         <div className="p-4">
