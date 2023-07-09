@@ -9,8 +9,11 @@ const Hero = () => {
                        className="max-w-sm rounded-lg shadow-2xl" />
                 <div>
                     <h1 className="text-5xl font-bold">Stella and TsuNami!</h1>
-                    <p className="py-6">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
-                    <button className="btn btn-primary">Get Started</button>
+                    <p className="py-6">Two pug sisters, Stella and TsuNami, share an unbreakable bond of love and
+                        companionship. They spend their days frolicking together, their playful antics bringing joy
+                        to everyone around them. Whether it's snuggling up for naptime or going on adventurous walks,
+                        Stella and TsuNami are inseparable, showcasing the purest form of sisterly affection.</p>
+                    <button className="btn btn-primary">Find Us on OpenSea</button>
                 </div>
             </div>
         </div>
